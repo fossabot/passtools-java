@@ -5,6 +5,8 @@ Official Java SDK for the PassTools API
 
 
 ## Overview 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-java?ref=badge_shield)
+
 
 * The SDK makes it easy to manage Apple Passbook passes through the PassTools API.
 * Please refer to the [API Doc](https://github.com/tello/passtools-api) for the raw apis.
@@ -76,3 +78,7 @@ Please note that we are currently deploying the com.passtools.* maven artifacts 
 
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-java.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Furbanairship%2Fpasstools-java?ref=badge_large)
